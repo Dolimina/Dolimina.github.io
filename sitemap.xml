@@ -94,6 +94,9 @@
     <loc>https://example.com/blog/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/blog/article/</loc>
+    <lastmod>2009-01-01T14:09:10+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/blog/force-ssl/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url><url>
